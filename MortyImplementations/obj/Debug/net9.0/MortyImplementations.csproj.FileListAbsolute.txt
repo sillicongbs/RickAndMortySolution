@@ -1,0 +1,5 @@
+E:\WorkSpace\DotNetCore\itransition\RickAndMortySolution\MortyImplementations\obj\Debug\net9.0\MortyImplementations.csproj.AssemblyReference.cache
+E:\WorkSpace\DotNetCore\itransition\RickAndMortySolution\MortyImplementations\obj\Debug\net9.0\MortyImplementations.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\DotNetCore\itransition\RickAndMortySolution\MortyImplementations\obj\Debug\net9.0\MortyImplementations.AssemblyInfoInputs.cache
+E:\WorkSpace\DotNetCore\itransition\RickAndMortySolution\MortyImplementations\obj\Debug\net9.0\MortyImplementations.AssemblyInfo.cs
+E:\WorkSpace\DotNetCore\itransition\RickAndMortySolution\MortyImplementations\obj\Debug\net9.0\MortyImplementations.csproj.CoreCompileInputs.cache

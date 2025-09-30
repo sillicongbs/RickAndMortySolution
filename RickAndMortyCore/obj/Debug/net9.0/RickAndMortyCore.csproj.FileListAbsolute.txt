@@ -1,0 +1,11 @@
+E:\WorkSpace\DotNetCore\itransition\RickAndMortySolution\RickAndMortyCore\bin\Debug\net9.0\RickAndMortyCore.deps.json
+E:\WorkSpace\DotNetCore\itransition\RickAndMortySolution\RickAndMortyCore\bin\Debug\net9.0\RickAndMortyCore.dll
+E:\WorkSpace\DotNetCore\itransition\RickAndMortySolution\RickAndMortyCore\bin\Debug\net9.0\RickAndMortyCore.pdb
+E:\WorkSpace\DotNetCore\itransition\RickAndMortySolution\RickAndMortyCore\obj\Debug\net9.0\RickAndMortyCore.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\DotNetCore\itransition\RickAndMortySolution\RickAndMortyCore\obj\Debug\net9.0\RickAndMortyCore.AssemblyInfoInputs.cache
+E:\WorkSpace\DotNetCore\itransition\RickAndMortySolution\RickAndMortyCore\obj\Debug\net9.0\RickAndMortyCore.AssemblyInfo.cs
+E:\WorkSpace\DotNetCore\itransition\RickAndMortySolution\RickAndMortyCore\obj\Debug\net9.0\RickAndMortyCore.csproj.CoreCompileInputs.cache
+E:\WorkSpace\DotNetCore\itransition\RickAndMortySolution\RickAndMortyCore\obj\Debug\net9.0\RickAndMortyCore.dll
+E:\WorkSpace\DotNetCore\itransition\RickAndMortySolution\RickAndMortyCore\obj\Debug\net9.0\refint\RickAndMortyCore.dll
+E:\WorkSpace\DotNetCore\itransition\RickAndMortySolution\RickAndMortyCore\obj\Debug\net9.0\RickAndMortyCore.pdb
+E:\WorkSpace\DotNetCore\itransition\RickAndMortySolution\RickAndMortyCore\obj\Debug\net9.0\ref\RickAndMortyCore.dll
